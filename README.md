@@ -10,15 +10,15 @@ Learning-Algorithm-Notes是我学习算法过程的一些记录，主要是为�
 
 ### 参考书籍
 * 算法笔记
-* 计试指南
+* 机试指南
 * 剑指Offer
 
 
 ### 练习网站
 *  codeup.cn
+*  luogu.com
 *  PIPIOJ
 *  lintcode
-*  leetcode
 
 
 
