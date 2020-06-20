@@ -12,6 +12,8 @@ Learning-Algorithm-Notes是我学习算法过程的一些记录，主要是为�
 * 算法笔记
 * 机试指南
 * 剑指Offer
+* 挑战程序设计竞赛（第2版）
+* 挑战程序设计竞赛-算法和数据结构
 
 
 ### 练习网站
@@ -25,5 +27,4 @@ Learning-Algorithm-Notes是我学习算法过程的一些记录，主要是为�
 
 ### 持续更新
 ***
-联系
-<miaomiaobabyzy@gmail.com>
+联系 <miaomiaobabyzy@gmail.com>
